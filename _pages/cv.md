@@ -57,14 +57,16 @@ Teaching Assistant
 Skills
 ======
 * Qualitative Research: Thematic Analysis, Grounded Theory  
+* Quantitative Analysis: Regression Analysis, Basic Statistical Modeling  
 * Tools: NVivo, MAXQDA, Zotero, Mendeley, Markdown, GitHub  
 * Academic Writing and Presentation  
 * Workshop Facilitation and Teaching Support
 
+
 Languages
 ======
 * Chinese (native)  
-* Japanese (5+ years of academic and professional use)  
+* Japanese (N1)
 * English (used for academic writing and international presentations)
 
 Contact
