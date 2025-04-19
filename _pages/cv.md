@@ -1,10 +1,13 @@
 ---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
+---
+
 ---
 
 Education
