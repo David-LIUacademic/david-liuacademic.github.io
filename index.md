@@ -8,7 +8,7 @@ author_profile: true
 Welcome to my academic homepage.  
 I am a doctoral student at the Japan Advanced Institute of Science and Technology (JAIST), currently focusing on sustainable transformation in manufacturing industries.
 
-My research explores how small and medium-sized enterprises (SMEs) can transition toward circular economy models, with particular attention to organizational culture, leadership, and servitization. I am also interested in knowledge management practices that support long-term change.
+My research explores how small and medium-sized enterprises (SMEs) can transition toward circular economy models, with particular attention to organizational culture, capabilities, and servitization. I am also interested in knowledge management practices that support long-term change.
 
 This site provides an overview of my background, academic activities, and teaching experience.  
 Feel free to get in touch if you're interested in my work or collaboration.
