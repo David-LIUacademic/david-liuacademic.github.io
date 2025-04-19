@@ -25,7 +25,7 @@ Fellowship
 
 Scholarships
 ======
-* Full tuition waiver at JAIST (2023)  
+* Full tuition waiver at JAIST (2024)  
   – Awarded for being in the top 10% of academic performance in the 1st year of the master’s program
 
 * Ishikawa Prefecture Scholarship for Privately Financed International Students (2022)  
