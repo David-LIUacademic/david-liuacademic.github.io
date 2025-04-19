@@ -28,7 +28,7 @@ header_pages:
 author:
   avatar           : "微信图片_20250420061136.png"  # 头像文件，等会你可以替换图片
   name             : "Liu Xuan"
-  pronouns         : "he/him"
+  #pronouns         : "he/him"
   bio              : "PhD student at JAIST, exploring Circular Economy and Organizational Transformation in SMEs"
   location         : "Ishikawa, Japan"
   employer         : "Japan Advanced Institute of Science and Technology (JAIST)"
