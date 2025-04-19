@@ -26,7 +26,7 @@ header_pages:
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "images/profile.jpg"  # 头像文件，等会你可以替换图片
+  avatar           : "微信图片_20250420061136.png"  # 头像文件，等会你可以替换图片
   name             : "Liu Xuan"
   pronouns         : "he/him"
   bio              : "PhD student at JAIST, exploring Circular Economy and Organizational Transformation in SMEs"
