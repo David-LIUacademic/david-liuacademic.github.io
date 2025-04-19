@@ -31,3 +31,8 @@ main:
     
   - title: "Guide"
     url: /markdown/
+main:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
