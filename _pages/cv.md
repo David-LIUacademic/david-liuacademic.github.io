@@ -7,58 +7,68 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Knowledge Science**  
+  *Japan Advanced Institute of Science and Technology (JAIST)*  
+  Apr. 2025 – Present
 
-Work experience
+* **M.Sc. in Knowledge Science**  
+  *Japan Advanced Institute of Science and Technology (JAIST)*  
+  Apr. 2023 – Mar. 2025
+
+Fellowship
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* JST SPRING Program, Special Research Fellow (2025 – Present)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Scholarships
+======
+* Full tuition waiver at JAIST (2023)  
+  – Awarded for being in the top 10% of academic performance in the 1st year of the master’s program
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Ishikawa Prefecture Scholarship for Privately Financed International Students (2022)  
+  – Selected as a representative awardee to report achievements directly to the Governor of Ishikawa
+
+Research Interests
+======
+* Circular Economy (CE)
+* Servitization and Circular Product-Service Systems (PSS)
+* Organizational Transformation
+* Organizational Culture and Leadership
+* Knowledge Management
+
+Academic Activities
+======
+* **ICSSI 2024** (Taiwan) – *Best Theme Paper Award*, oral presentation  
+* **Society for Serviceology** (Japan) – multiple poster presentations  
+* **Knowledge Co-Creation Forum 2025** – poster presentation  
+* **Matching HUB Nagano 2024** – poster presentation and consultation with industry experts  
+* **JAIST Symposium 2023** – student representative oral presentation  
+
+Teaching Assistant
+======
+* **2024**  
+  - Service Management  
+  - Value Co-Creation Management for the Circular Economy
+
+* **2025**  
+  - Transformative Knowledge Management
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Qualitative Research: Thematic Analysis, Grounded Theory  
+* Tools: NVivo, MAXQDA, Zotero, Mendeley, Markdown, GitHub  
+* Academic Writing and Presentation  
+* Workshop Facilitation and Teaching Support
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Chinese (native)  
+* Japanese (5+ years of academic and professional use)  
+* English (used for academic writing and international presentations)
+
+Contact
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+📧 s2520042@jaist.ac.jp  
+📨 liuxuan.academia@gmail.com
+
