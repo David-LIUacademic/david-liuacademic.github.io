@@ -23,10 +23,10 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
       <div class="publication-entry" style="margin-bottom: 1.5em;">
-        <p><strong>{{ post.title }}</strong></p>
+        <p><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></p>
         <p>{{ post.citation }}</p>
         {% if post.paperurl %}
-          <p><a href="{{ post.paperurl }}" target="_blank">[PDF]</a></p>
+          <p><a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">📄 Download Paper</a></p>
         {% endif %}
         <hr />
       </div>
@@ -35,10 +35,10 @@ author_profile: true
 {% else %}
   {% for post in site.publications reversed %}
     <div class="publication-entry" style="margin-bottom: 1.5em;">
-      <p><strong>{{ post.title }}</strong></p>
+      <p><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></p>
       <p>{{ post.citation }}</p>
       {% if post.paperurl %}
-        <p><a href="{{ post.paperurl }}" target="_blank">[PDF]</a></p>
+        <p><a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">📄 Download Paper</a></p>
       {% endif %}
       <hr />
     </div>
