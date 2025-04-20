@@ -27,3 +27,5 @@ Here are some highlights:
 
 <img src="/images/group-photo.jpg" alt="Team Photo" width="50%">
 *With Professor Shirahada and teammates*
+
+📌 *This project offered me a meaningful chance to engage in real-world application of management science. I look forward to continuing such collaborative research that bridges theory, policy, and industrial practice.*
