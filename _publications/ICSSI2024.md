@@ -10,9 +10,7 @@ paperurl: 'https://icssi.s3tw.org.tw/upload/%7B638658132702778668%7D_ICSSI_2024_
 citation: 'Liu, X., & Shirahada, K. (2024). "Interplay Between Servitization and the Circular Economy in Chinese Manufacturing SMEs: Analysis of Two Cases." <i>International Conference on Service Science and Innovation (ICSSI 2024)</i>, Taiwan. Paper ID 24. Oral Presentation. <br>
 <strong>Best Theme Paper Award</strong>.'
 ---
-
-This paper explores how servitization strategies and circular economy practices interact within the context of Chinese manufacturing SMEs.  
-It analyzes two case companies that demonstrate distinct paths toward sustainable transformation through service innovation and resource recirculation.
+This paper develops a new conceptual model based on two case studies of Chinese manufacturing SMEs—one in aluminum product processing and the other in flue gas treatment solutions. The model illustrates how servitization strategies and circular economy practices interact to create synergistic outcomes in both economic and environmental dimensions. In contrast to mainstream studies that emphasize digital technologies, this research highlights the critical role of industry-specific knowledge and accumulated experience as non-digital enablers. By doing so, it offers a practical and scalable pathway for resource-constrained SMEs to pursue circular economy transitions.
 
 The paper was presented orally at the **International Conference on Service Science and Innovation (ICSSI 2024)** in **Taipei, Taiwan**, and received the **Best Theme Paper Award** 🏆.
 
