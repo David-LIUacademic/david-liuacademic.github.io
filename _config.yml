@@ -20,6 +20,7 @@ repository               : "david-liuacademic/david-liuacademic.github.io"
 header_pages:
   - index.md
   - _pages/cv.md
+  - _pages/publications.md
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
