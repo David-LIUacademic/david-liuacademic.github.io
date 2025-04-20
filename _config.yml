@@ -31,7 +31,7 @@ author:
   #pronouns         : "he/him"
   bio              : "PhD student at JAIST, Shirahada Lab."
   location         : "Ishikawa, Japan"
-  employer         : "Japan Advanced Institute of Science and Technology (JAIST)"
+  employer         : "employer: "JAIST (Japan Advanced Institute of Science and Technology)"
   uri              :  # 可空，或放个人主页链接
   email            : "s2520042@jaist.ac.jp / liuxuan.academia@gmail.com"  # ← 把这个换成你的邮箱
 
