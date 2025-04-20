@@ -1,6 +1,6 @@
 ---
 title: "Nomi City Project: Exploring DX and Well-being in SMEs"
-date: 2025-04-20
+date: 2024-03-20
 tags:
   - DX
   - CE
