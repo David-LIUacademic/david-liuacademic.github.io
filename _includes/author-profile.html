@@ -18,8 +18,12 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.pronouns %}
+      <p class="author__pronouns">{{ author.pronouns }}</p>
+    {% endif %}
+    {% if author.bio %}
+      <p class="author__bio">{{ author.bio }}</p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -27,31 +31,35 @@
     <ul class="author__urls social-icons">
 
       {% if author.location %}
-        <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
+        <li class="author__desktop">
+          <i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}
+        </li>
       {% endif %}
+
       {% if author.employer %}
-        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        <li class="author__desktop">
+          <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}
+        </li>
       {% endif %}
+
       {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
-      {% endif %}
-      {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
-      {% endif %}
-
-      {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
-      {% endif %}
-
-      {% if author.xiaohongshu %}
         <li>
-          <a href="{{ author.xiaohongshu }}" target="_blank">
-            <img src="{{ '/images/XHS.jpg' | relative_url }}" alt="Xiaohongshu" width="16" style="vertical-align: middle; margin-right: 4px;">
-            Xiaohongshu
+          <a href="{{ author.uri }}">
+            <i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>
+            {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
           </a>
         </li>
       {% endif %}
 
-    </ul>
-  </div>
-</div>
+      {% if author.email %}
+        <li>
+          <a href="mailto:{{ author.email }}">
+            <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
+            {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.github %}
+        <li>
+          <
