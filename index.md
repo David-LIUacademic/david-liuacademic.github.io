@@ -18,7 +18,7 @@ My work focuses on the following areas:
 ♻️ Circular Economy  
 🛠️ Servitization  
 🔄 Organizational Transformation  
-🧭 Organizational Culture and Leadership  
+🧭 Organizational Culture and Capabilities
 📚 Knowledge Management  
 
 This site provides an overview of my research, publications, and academic activities.  
