@@ -9,14 +9,13 @@
 
     {% if page.sidebar %}
       {% for s in page.sidebar %}
+
         {% if s.image %}
-          <img 
-            src="{% if s.image contains '://' %}
-              {{ s.image }}
-            {% else %}
-              {{ s.image | prepend: '/images/' | prepend: base_path }}
-            {% endif %}"
-            alt="{% if s.image_alt %}{{ s.image_alt }}{% else %}Sidebar image{% endif %}">
+          {% if s.image contains '://' %}
+            <img src="{{ s.image }}" alt="{{ s.image_alt | default: 'Sidebar image' }}">
+          {% else %}
+            <img src="{{ base_path }}/images/{{ s.image }}" alt="{{ s.image_alt | default: 'Sidebar image' }}">
+          {% endif %}
         {% endif %}
 
         {% if s.title %}
@@ -26,6 +25,7 @@
         {% if s.text %}
           {{ s.text | markdownify }}
         {% endif %}
+
       {% endfor %}
 
       {% if page.sidebar.nav %}
@@ -33,6 +33,6 @@
       {% endif %}
 
     {% endif %}
-    
+
   </div>
 {% endif %}
