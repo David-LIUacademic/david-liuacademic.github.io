@@ -19,11 +19,11 @@ This project included:
 
 Here are some highlights:
 
-<img src="/images/presentation.NOMI CITY.jpg" alt="Presentation to Nomi City" width="50%">
+<img src="/images/presentation-nomicity.jpg" alt="Presentation to Nomi City" width="50%">
 *Presentation to the Mayor of Nomi City*
 
-<img src="/images/presentation award.jpg" alt="Presentation Award" width="50%">
+<img src="/images/presentation-award.jpg" alt="Presentation Award" width="50%">
 *Excellent Presentation Award (JAIST)*
 
-<img src="/images/微信图片_20250420061136.png" alt="Team Photo" width="50%">
+<img src="/images/group-photo.jpg" alt="Team Photo" width="50%">
 *With Professor Shirahada and teammates*
