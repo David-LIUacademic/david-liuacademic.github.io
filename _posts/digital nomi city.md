@@ -46,6 +46,25 @@ We proposed:
 This work was awarded the **Excellent Presentation Award** in JAIST’s internal group presentation.  
 Additionally, the results were formally reported to the **Mayor of Nomi City**, showcasing how research can contribute directly to local policy and business innovation.
 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+
+  <div style="text-align: center;">
+    <img src="/images/presentation-nomi.jpg" alt="Presentation to Nomi City" width="300"/>
+    <p style="font-size: 0.9em;">Presentation to the Mayor of Nomi City</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/images/presentation-award.jpg" alt="Award Photo" width="300"/>
+    <p style="font-size: 0.9em;">Excellent Presentation Award (JAIST)</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="/images/group-photo.jpg" alt="Group Photo" width="300"/>
+    <p style="font-size: 0.9em;">With Professor Shirahada and teammates</p>
+  </div>
+
+</div>
+
 ---
 
 📌 *This project offered me a meaningful chance to engage in real-world application of management science. I look forward to continuing such collaborative research that bridges theory, policy, and industrial practice.*
