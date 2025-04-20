@@ -34,18 +34,21 @@ Scholarships
 Research Interests
 ======
 * Circular Economy (CE)
-* Servitization and Circular Product-Service Systems (PSS)
+* Servitization and Product-Service Systems (PSS)
 * Organizational Transformation
-* Organizational Culture and Leadership
+* Organizational Culture and Capabilities
 * Knowledge Management
 
 Academic Activities
 ======
-* **ICSSI 2024** (Taiwan) – *Best Theme Paper Award*, oral presentation  
-* **Society for Serviceology** (Japan) – multiple poster presentations  
+* **ICSSI 2024**  – *Best Theme Paper Award*, oral presentation  
+* **Society for Serviceology**  – multiple poster presentations  
 * **Knowledge Co-Creation Forum 2025** – poster presentation  
 * **Matching HUB Nagano 2024** – poster presentation and consultation with industry experts  
-* **JAIST Symposium 2023** – student representative oral presentation  
+* **JAIST Symposium 2023** – student representative oral presentation
+* **Digital Nomi City Project 2023** – industry-academia-government collaboration  
+  – *Excellent Presentation Award* at internal research presentation  
+  – Result report delivered to the Mayor of Nomi City
 
 Teaching Assistant
 ======
@@ -60,7 +63,7 @@ Skills
 ======
 * Qualitative Research: Thematic Analysis, Grounded Theory  
 * Quantitative Analysis: Regression Analysis, Basic Statistical Modeling  
-* Tools: NVivo, MAXQDA, Zotero, Mendeley, Markdown, GitHub  
+* Tools: NVivo, Zotero, Markdown, GitHub  
 * Academic Writing and Presentation  
 * Workshop Facilitation and Teaching Support
 
