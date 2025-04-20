@@ -49,7 +49,7 @@ Additionally, the results were formally reported to the **Mayor of Nomi City**, 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
   <div style="text-align: center;">
-    <img src="/images/presentation-nomi.jpg" alt="Presentation to Nomi City" width="300"/>
+    <img src="/images/presentation-nomicity.jpg" alt="Presentation to Nomi City" width="300"/>
     <p style="font-size: 0.9em;">Presentation to the Mayor of Nomi City</p>
   </div>
 
