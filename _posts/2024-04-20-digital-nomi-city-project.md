@@ -64,7 +64,7 @@ The results were also reported directly to the **Mayor of Nomi City**, demonstra
 
   <div style="text-align: center;">
     <img src="/images/group-photo.jpg" alt="Group Photo" width="300"/>
-    <p style="font-size: 0.9em;">With Professor Shirahada and teammates</p>
+    <p style="font-size: 0.9em;">With Professor Uchihira and teammates</p>
   </div>
 
 </div>
