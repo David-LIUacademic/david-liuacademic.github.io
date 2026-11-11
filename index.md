@@ -27,7 +27,6 @@ My Research Interests:
 - 🛠️ Servitization
 - 💻 Digitalization
 - 🔄 Organizational Transformation
-- 🎯 Leadership
 - 🧭 Organizational Culture
 - ⚙️ Organizational Capabilities
 - 📚 Knowledge Management
